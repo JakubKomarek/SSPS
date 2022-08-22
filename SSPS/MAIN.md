@@ -2,7 +2,7 @@
 
 --- 
 
-**I:**  
+**Vyučující:**  
 [Jakub Komárek]()     
 Smíchovská střední průmyslová škola a gymnázium
 
@@ -10,7 +10,7 @@ Smíchovská střední průmyslová škola a gymnázium
 
 ### Zdroje
 
-+ [cheatsheety](https://formanektomas.github.io/4EK417/CourseClassification.html)
++ [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheetsl)
 + [Literature and other supporting materials for the course](https://formanektomas.github.io/4EK417/LiteratureSupport.html)
 
 
