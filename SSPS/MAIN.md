@@ -10,7 +10,7 @@ Smíchovská střední průmyslová škola a gymnázium
 
 ### Zdroje
 
-+ [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheetsl)
++ [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheets)
 + [Literature and other supporting materials for the course](https://formanektomas.github.io/4EK417/LiteratureSupport.html)
 
 
