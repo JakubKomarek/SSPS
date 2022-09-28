@@ -12,7 +12,7 @@
 
 + [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheets)
 + [R](https://www.r-project.org/) 
-+ [RStudio Community]((https://community.rstudio.com/) 
++ [RStudio Community](https://community.rstudio.com/) 
 + [RStudio](https://www.rstudio.com/products/RStudio/)  
 + [stackoverflow](https://stackoverflow.com/tags/r/info)  
 
