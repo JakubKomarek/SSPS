@@ -36,4 +36,4 @@ Smíchovská střední průmyslová škola a gymnázium
 
 ---
 
-[Homepage](https://JakubKomárek.github.io/SSPS/)
+[Homepage](https://JakubKomarek.github.io/SSPS/)
