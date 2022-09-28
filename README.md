@@ -4,14 +4,14 @@
 
 **Vyučující:**  
 [Jakub Komárek](https://www.paqresearch.cz/)  
-[Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/) 
+[Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/)  
 [PAQ Research](https://www.paqresearch.cz/) 
 
 --- 
 
 ### Zdroje
 
-+ [R packages cheatsheets](https://JakubKomarek.github.io/SSPS/cheatsheets)
++ [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/cheatsheets)
 + [R](https://www.r-project.org/)
 + [RStudio](https://www.rstudio.com/products/RStudio/)   
 + [RStudio Community](https://community.rstudio.com/) 
