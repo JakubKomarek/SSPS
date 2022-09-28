@@ -3,8 +3,8 @@
 --- 
 
 **Vyučující:**  
-[Jakub Komárek]()     
-Smíchovská střední průmyslová škola a gymnázium
+[Jakub Komárek](https://www.paqresearch.cz/)
+[Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/) 
 
 --- 
 
