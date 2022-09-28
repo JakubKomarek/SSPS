@@ -35,6 +35,7 @@
 + I. [Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
 + II. [Data Manipulation with dplyr](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr)
 + III. [Case Study: Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/case-study-exploratory-data-analysis-in-r)  <br>
+---
 ##### Blok 2, Data Vizualization:
 + IV. [Introduction to Data Visualization with ggplot2](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-ggplot2)
 + V. [Intermediate Data Vizualization with ggplot2](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-ggplot2)
