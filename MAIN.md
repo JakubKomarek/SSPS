@@ -8,29 +8,31 @@ Smíchovská střední průmyslová škola a gymnázium
 
 --- 
 
-### Cheatsheety
+### Zdroje pomoci
 
 + [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheets)
++ [R](https://www.r-project.org/) 
++ [RStudio Community]((https://community.rstudio.com/) 
++ [RStudio](https://www.rstudio.com/products/RStudio/)  
++ [stackoverflow](https://stackoverflow.com/tags/r/info)  
 
 
 --- 
 
 ### Slides
 
-+ Data manipulation and visualization basics
++ [Týden č.1](https://JakubKomarek.github.io/SSPS/slides)
  
+--- 
 
 #### DataCamp courses  
 
-+ [Download presentation slides for Block 1](https://github.com/formanektomas/4EK417/raw/master/Block1/Block_1.pdf)
++ [Introduction to R](https://github.com/formanektomas/4EK417/raw/master/Block1/Block_1.pdf)
 
-  
+--- 
 #### Testy 
 
-- [R](https://www.r-project.org/) / [RStudio](https://www.rstudio.com/products/RStudio/)  
-- [stackoverflow](https://stackoverflow.com/tags/r/info)  
-
-
++ [Test č.1](https://JakubKomarek.github.io/SSPS/cheatsheets)
 
 ---
 
