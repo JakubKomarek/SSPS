@@ -1,4 +1,4 @@
-# Programovaní v R 
+# Datová analýza a programovaní v R 
 
 --- 
 
