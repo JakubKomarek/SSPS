@@ -11,7 +11,7 @@
 
 ### Zdroje
 
-+ [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheets)
++ [R packages cheatsheets](https://JakubKomarek.github.io/SSPS/cheatsheets)
 + [R](https://www.r-project.org/)
 + [RStudio](https://www.rstudio.com/products/RStudio/)   
 + [RStudio Community](https://community.rstudio.com/) 
