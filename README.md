@@ -3,8 +3,8 @@
 --- 
 
 **Vyučující:**  
-[Jakub Komárek]()     
-Smíchovská střední průmyslová škola a gymnázium
+[Jakub Komárek](https://www.paqresearch.cz/)
+[Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/) 
 
 --- 
 
@@ -12,7 +12,7 @@ Smíchovská střední průmyslová škola a gymnázium
 
 + [cheatsheety](https://JakubKomarek.github.io/SSPS/cheatsheets)
 + [R](https://www.r-project.org/) 
-+ [RStudio Community]((https://community.rstudio.com/) 
++ [RStudio Community](https://community.rstudio.com/) 
 + [RStudio](https://www.rstudio.com/products/RStudio/)  
 + [stackoverflow](https://stackoverflow.com/tags/r/info)  
 
