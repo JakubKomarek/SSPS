@@ -11,7 +11,7 @@
 
 ### Zdroje
 
-+ [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/cheatsheets)
++ [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/cheatscheets)
 + [R for Data Science](https://r4ds.had.co.nz/)
 + [R Graphics Cookbook](https://r-graphics.org/)
 + [R](https://www.r-project.org/)
@@ -24,7 +24,8 @@
 
 ### Slides
 
-+ [Týden č.1](https://JakubKomarek.github.io/SSPS/slides)
++ [Týden č.1](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/slides/R_Week_01.pptx)
++ [Týden č.2](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/slides/R_Week_02.pptx)
  
 --- 
 
@@ -41,7 +42,7 @@
 --- 
 ### Testy 
 
-+ [Test č.1](https://JakubKomarek.github.io/SSPS/testy)
++ [Test č.1](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/testy)
 
 ---
 
