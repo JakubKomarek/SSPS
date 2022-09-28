@@ -1,7 +1,3 @@
-# Datová analýza a programovaní v R 
-
---- 
-
 **Vyučující:**  
 Jakub Komárek  
 [Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/)  
