@@ -46,4 +46,4 @@
 
 ---
 
-[Homepage](https://JakubKomarek.github.io/SSPS/)
+[Homepage](https://jakubkomarek.github.io/SSPS/R/)
