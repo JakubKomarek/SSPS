@@ -12,10 +12,12 @@
 #### Zdroje
 
 + [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/cheatsheets)
++ [R for Data Science](https://r4ds.had.co.nz/)
++ [R Graphics Cookbook](https://r-graphics.org/
 + [R](https://www.r-project.org/)
 + [RStudio](https://www.rstudio.com/products/RStudio/)   
 + [RStudio Community](https://community.rstudio.com/) 
-+ [stackoverflow](https://stackoverflow.com/tags/r/info)  
++ [stackoverflow](https://stackoverflow.com/tags/r/info) 
 
 
 --- 
