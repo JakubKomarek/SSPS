@@ -11,7 +11,7 @@
 
 ### Zdroje
 
-+ [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/cheatsheets)
++ [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/R/cheatsheets)
 + [R for Data Science](https://r4ds.had.co.nz/)
 + [R Graphics Cookbook](https://r-graphics.org/)
 + [R](https://www.r-project.org/)
