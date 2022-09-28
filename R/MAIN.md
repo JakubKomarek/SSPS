@@ -1,7 +1,3 @@
-# Datová analýza a programovaní v R 
-
---- 
-
 **Vyučující:**  
 Jakub Komárek  
 [Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/)  
@@ -29,7 +25,7 @@ Jakub Komárek
  
 --- 
 
-### DataCamp courses  
+### DataCamp kurzy  
 
 ##### Blok 1, Data Wrangling:
 + I. [Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
