@@ -24,7 +24,8 @@
 
 ### Slides
 
-+ [Týden č.1](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/slides)
++ [Týden č.1](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/slides/R_Week_01.pptx)
++ [Týden č.2](https://github.com/JakubKomarek/SSPS/tree/gh-pages/R/slides/R_Week_02.pptx)
  
 --- 
 
