@@ -9,7 +9,7 @@
 
 --- 
 
-### Zdroje
+#### Zdroje
 
 + [R packages cheatsheets](https://github.com/JakubKomarek/SSPS/cheatsheets)
 + [R](https://www.r-project.org/)
@@ -20,7 +20,7 @@
 
 --- 
 
-### Slides
+#### Slides
 
 + [Týden č.1](https://JakubKomarek.github.io/SSPS/slides)
  
