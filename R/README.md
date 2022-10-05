@@ -2,6 +2,7 @@
 Jakub Komárek  
 [Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/)  
 [PAQ Research](https://www.paqresearch.cz/) 
+kontakt: jakub.komarek@ssps.cz
 
 --- 
 
@@ -20,8 +21,9 @@ Jakub Komárek
 
 ### Slides
 
-+ [Týden č.1](https://github.com/JakubKomarek/SSPS/tree/main/R/slides/R_Week_01.pptx)
-+ [Týden č.2](https://github.com/JakubKomarek/SSPS/tree/main/R/slides/R_Week_02.pptx)
++ [Týden č. 1](https://github.com/JakubKomarek/SSPS/tree/main/R/slides/R_Week_01.pptx)
++ [Týden č. 2](https://github.com/JakubKomarek/SSPS/tree/main/R/slides/R_Week_02.pptx)
++ [Týden č. 3](https://github.com/JakubKomarek/SSPS/tree/main/R/slides/R_Week_03.pptx)
  
 --- 
 
