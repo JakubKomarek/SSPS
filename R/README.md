@@ -1,7 +1,7 @@
 **Vyučující:**  
 Jakub Komárek  
 [Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/)  
-[PAQ Research](https://www.paqresearch.cz/) 
+[PAQ Research](https://www.paqresearch.cz/)   
 kontakt: jakub.komarek@ssps.cz
 
 --- 
@@ -34,7 +34,7 @@ kontakt: jakub.komarek@ssps.cz
 + II. [Data Manipulation with dplyr](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr)
 + III. [Case Study: Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/case-study-exploratory-data-analysis-in-r)
   
---
+--- 
 
 ##### Blok 2, Data Vizualization:
 + IV. [Introduction to Data Visualization with ggplot2](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-ggplot2)
