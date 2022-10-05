@@ -2,7 +2,7 @@
 Jakub Komárek  
 [Smíchovská střední průmyslová škola a gymnázium](https://www.ssps.cz/)  
 [PAQ Research](https://www.paqresearch.cz/) 
-kontakt: jakub.komarek@ssps.cz; komarekjakub42@gmail.com; jakub.komarek@paqresearch.cz
+kontakt: jakub.komarek@ssps.cz
 
 --- 
 
