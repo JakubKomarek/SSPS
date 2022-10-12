@@ -43,7 +43,7 @@ kontakt: jakub.komarek@ssps.cz
 --- 
 ### Testy 
 
-+ [Test č.1](https://github.com/JakubKomarek/SSPS/tree/main/R/testy)
++ Všechny testy naleznete [zde](https://github.com/JakubKomarek/SSPS/tree/main/R/testy)
 
 ---
 
