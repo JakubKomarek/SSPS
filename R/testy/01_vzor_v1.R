@@ -33,10 +33,10 @@ class(data$kraj)
 
 ##v dplyr měníme sloupce, jako bychom tvořili nové, takže funkce mutate()
 
-data <- data %>% 
-  mutate(kraj = "?????") ###co tam doplnit?
-           
-           
+#data <- data %>% 
+# mutate(kraj = "?????") ###co tam doplnit?
+
+
 ####prozkoumejme funkci fct_relevel
 ?fct_relevel()
 
@@ -53,10 +53,11 @@ sort(new_vector)
 
 ##pojďme tedy zpátky k původnímu zadání
 data <- data %>% 
-  mutate(kraj = fct_relevel(kraj, c("Praha", "Středočeský", "Jihočeský", "Plzeňský", "Karlovarský",
-                                                       "Ústecký", "Liberecký","Královéhradecký", "Pardubický", "Vysočina", 
-                                                       "Jihomoravský", "Olomoucký", "Zlínský", "Moravskoslezský"))) %>% 
-           arrange(kraj)  ####seřadit dle pořadí faktor.
+  mutate(NUTS3 = kraj, #ponecháme původní sloupec v podobě NUT3 
+         kraj = fct_relevel(kraj, c("Praha", "Středočeský", "Jihočeský", "Plzeňský", "Karlovarský",
+                                    "Ústecký", "Liberecký","Královéhradecký", "Pardubický", "Vysočina", 
+                                    "Jihomoravský", "Olomoucký", "Zlínský", "Moravskoslezský"))) %>% 
+  arrange(kraj)  ####seřadit dle pořadí faktorů
 
 
 data  ###první už jsou pražské školy
@@ -67,19 +68,19 @@ data  ###první už jsou pražské školy
 ##vytvořím dataframe, který použiji jako převodník
 
 prevodnik <- tibble(NUTS3 = c("Praha", "Středočeský", "Jihočeský", "Plzeňský", 
-                             "Karlovarský","Ústecký", "Liberecký","Královéhradecký", "Pardubický", 
-                             "Vysočina", "Jihomoravský", "Olomoucký", "Zlínský", "Moravskoslezský"),
+                              "Karlovarský","Ústecký", "Liberecký","Královéhradecký", "Pardubický", 
+                              "Vysočina", "Jihomoravský", "Olomoucký", "Zlínský", "Moravskoslezský"),
                     NUTS2 = c("CZ01", "CZ02", "CZ03", "CZ03", 
-                             "CZ04", "CZ04", "CZ05", "CZ05", "CZ05",
-                             "CZ06", "CZ06", "CZ07", "CZ07", "CZ08"))
+                              "CZ04", "CZ04", "CZ05", "CZ05", "CZ05",
+                              "CZ06", "CZ06", "CZ07", "CZ07", "CZ08"))
 
 prevodnik
 
 
-##použiji klíč data$kraj <=> prevodnik$NUTS, abych přiřadil NUTS2
+##použiji klíč data$NUTS3<=> prevodnik$NUTS2, abych přiřadil NUTS2 k df data
 
 data <- data %>% 
-  left_join(prevodnik, by = c("kraj" = "NUTS3"))
+  left_join(prevodnik, by = "NUTS3")
 
 
 data # a je to :)
