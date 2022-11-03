@@ -15,6 +15,8 @@ kontakt: jakub.komarek@ssps.cz
 + [RStudio](https://www.rstudio.com/products/RStudio/)   
 + [RStudio Community](https://community.rstudio.com/) 
 + [stackoverflow](https://stackoverflow.com/tags/r/info) 
++ [sociologie FF UK](https://sociology-fa-cu.github.io/uvod-do-r-kniha/obsah-grafu.html) 
++ [R Tutorials](http://r-statistics.co/R-Tutorial.html) 
 
 
 --- 
